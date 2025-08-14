@@ -503,12 +503,6 @@ grep -c 'Description=' bcar_annotated.gff3
 
 ---
 
-## License
-
-[MIT or specify your license here]
-
----
-
 ## Contributions
 
 Feel free to open issues or pull requests to improve this workflow or add new features.
